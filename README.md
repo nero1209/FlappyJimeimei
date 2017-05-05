@@ -1,0 +1,2 @@
+# FlappyJimeimei
+Fake flappybird game
